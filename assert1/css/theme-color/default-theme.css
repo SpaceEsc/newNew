@@ -1,0 +1,64 @@
+
+/*=======================================
+Template Design By MarkUps	
+Author URI : http://www.markups.io/
+========================================*/
+
+#pg-video:after,
+.pg:after {
+	background-color: #37b721;/* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #64b3f4, #37b721);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #64b3f4, #37b721); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+a:hover,
+a:focus,
+.pg-book-now-btn,
+.pgcopy-right a:hover,
+.pg-copy-right a:focus,
+.pg-send-msg-btn:hover,
+.pg-send-msg-btn:focus,
+.pg-logo,
+.pg-logo:hover,
+.pg-logo:focus,
+.pg-client-quote,
+.pg-clients-slider .slick-prev, 
+.pg-clients-slider .slick-next,
+.pg-clients-slider .slick-prev::before, 
+.pg-clients-slider .slick-next::before,
+.pg-why-us-single-icon {
+	color: #37b721;
+}
+
+
+.scrollToTop,
+.pg-testimonial-slide .slick-dots li.slick-active,
+#pg-callto-action {
+	background-color: #37b721;
+}
+
+.pg-social-media a:hover,
+.pg-social-media a:focus {
+	border: 1px solid #37b721;
+	color: #37b721;
+}
+
+.pg-contact-form .form-control:focus,
+.pg-featured-tours-single-info .mu-book-now-btn {
+	border: 1px solid #37b721;    
+} 
+
+.pg-send-msg-btn,
+.pg-send-msg-btn:focus,
+.pg-register-btn:hover,
+.pg-register-btn:focus {
+	border: 1px solid #37b721;
+	background-color: #37b721;
+}
+
+.pg-clients-slider .slick-prev, 
+.pg-clients-slider .slick-next {
+	border: 2px solid #37b721;
+}
+
